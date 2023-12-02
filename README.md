@@ -1,7 +1,6 @@
-- Hi, I’m @Usaim-Khan
+- Hi, I’m Usaim Khan
 - Doing A-levels from Beaconhouse
 - I’m currently learning VB/Python
-- I’m looking to collaborate on ...
 - Email: usaim111@gmail.com
 
 <!---
