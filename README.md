@@ -1,6 +1,6 @@
 - Hi, I’m Usaim Khan
 - Doing A-levels from Beaconhouse
-- I’m currently learning VB and Python
+- I’m currently learning Python and Web Development
 - Email: usaim111@gmail.com
 
 <!---
