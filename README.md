@@ -1,5 +1,5 @@
 - Hi, I’m Usaim Khan
-- Doing A-levels from Beaconhouse
+- Doing BSCS From FAST NUCES
 - I’m currently learning Python and Web Development
 - Email: usaim111@gmail.com
 
