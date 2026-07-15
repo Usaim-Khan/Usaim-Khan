@@ -26,17 +26,6 @@ I'd rather build something real than follow another course to completion. Most o
 
 ---
 
-## What's in This Account
-
-My repos fall into two rough categories:
-
-- **Learning blocks** — smaller projects (Django/Flask CRUD apps, simple APIs) built to get fundamentals right on a specific stack before moving to something bigger. Not all of them are polished, but each one taught me something specific.
-- **Real projects** — things built to solve an actual problem or pushed to a properly documented, deployed state. [Practice Log API](https://github.com/Usaim-Khan/Practice-Log) is the current best example; WattWatch is next.
-
-Coursework from university shows up here too where it was substantial enough to be worth keeping public, rather than one-off assignment submissions.
-
----
-
 ## Featured Project
 
 ### [PracticeLog API](https://github.com/Usaim-Khan/Practice-Log)
@@ -46,6 +35,18 @@ A RESTful backend for tracking coding practice — Topics, Problems, and Attempt
 **Stack:** FastAPI · PostgreSQL · SQLAlchemy 2.0 · Pydantic v2
 
 🔗 [Live demo](https://practice-log.up.railway.app/) · [API docs](https://practice-log.up.railway.app/docs)
+
+---
+
+
+## What's in This Account
+
+My repos fall into two rough categories:
+
+- **Learning blocks** — smaller projects (Django/Flask CRUD apps, simple APIs) built to get fundamentals right on a specific stack before moving to something bigger. Not all of them are polished, but each one taught me something specific.
+- **Real projects** — things built to solve an actual problem or pushed to a properly documented, deployed state. [Practice Log API](https://github.com/Usaim-Khan/Practice-Log) is the current best example; WattWatch is next.
+
+Coursework from university shows up here too where it was substantial enough to be worth keeping public, rather than one-off assignment submissions.
 
 ---
 
