@@ -16,11 +16,11 @@
 
 ## About
 
-I'm a Computer Science student at FAST NUCES, Karachi (GPA 3.9), with about three years of self-taught programming behind me before that — mostly Python. I came in with an A* in A-Level Computer Science, and my focus now is backend development, with an eye toward AI/software engineering longer term.
+I'm a Computer Science student at FAST NUCES, Karachi (GPA 3.9), with more than three years of self-taught programming behind me before that — mostly Python. I came in with an A* in A-Level Computer Science, and my focus now is backend development, with an eye toward AI/software engineering longer term.
 
 I'd rather build something real than follow another course to completion. Most of what's below started as a way to get hands-on with a stack — FastAPI, SQLAlchemy, PostgreSQL — and turned into something I actually use or ship.
 
-- 🔧 Currently building **WattWatch** — a FastAPI + SQLite app to track two electricity meters against usage and remaining units, because I got tired of doing it manually
+- 🔧 Currently building **WattWatch** — a FastAPI + Postgresql app that tracks two electricity meters, their usage, and remaining units to automate a boring part of my life.
 - 🧱 Comfortable with Python, FastAPI, Flask, Django, SQL (PostgreSQL/SQLite), SQLAlchemy
 - 📄 Read the [Practice Log API README](https://github.com/Usaim-Khan/Practice-Log) if you want to see how I document a project end-to-end
 
